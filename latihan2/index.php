@@ -39,7 +39,7 @@
               class="form-signin">
             <div class="text-center mb-4">
                 <img width="72" height="72" src="asset/images/bootstrap-solid.svg">
-                    <h1>MENU LOGIN</h1>
+                    <h1>LOGIN</h1>
 <!--                    <p>Mari kita belajar bersama sama</p>-->
                      </div>
                     <div class="form-label-group">
